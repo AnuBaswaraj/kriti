@@ -6,7 +6,7 @@ ProductDev-HexCode leverages the power of OpenAI's GPT-3.5, enabling users to ge
 ---
 ## Deployment Demo
 [![Watch the video]](https://drive.google.com/file/d/1u7H21_JPEXPikhZIHyn5JmSdhzO69TOe/view?usp=drive_link)
-> This video showcases how a simple natural language prompt is converted into a fully functional website using AI.
+ This video showcases how a simple natural language prompt is converted into a fully functional website using AI.
 ---
 ## Features
 
