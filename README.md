@@ -4,7 +4,10 @@ Turn a simple idea into a fully functional website using natural language prompt
 ProductDev-HexCode leverages the power of OpenAI's GPT-3.5, enabling users to generate deployable website code instantly — no coding required.
 
 ---
-
+## Deployment Demo
+[![Watch the video]](https://drive.google.com/file/d/1u7H21_JPEXPikhZIHyn5JmSdhzO69TOe/view?usp=drive_link)
+> This video showcases how a simple natural language prompt is converted into a fully functional website using AI.
+---
 ## Features
 
 - Prompt-to-Website Generation: Enter a prompt like “a portfolio for a designer” and get full HTML, CSS, and JS code.
